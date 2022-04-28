@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 myself Debadri!
 
-<!--
-**debadri16/debadri16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
 
-Here are some ideas to get you started:
+I am a Fullstack Developer by profession and a traveller :camping: by heart. Started out as a backend developer, hence took hours to even center align a button. Then started working on frontend under compulsion and now I am enjoying it :blush:. Currently I am equaly proficient in both BE & FE using multiple stacks and I also agree that JavaScript is weird but its fun. I hope my projects here on Github might help folks get ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some info about me:
+
+- :computer: I’m currently working at TCS India.
+- :globe_with_meridians: Check out my [website](https://www.debadri.com) and feel free to connect.
+- 💬 Ask me about anything.
+- :partying_face: Don't forget to enjoy the life.
+- ⚡ Fun fact: Time enjoyed is never wasted.
+
