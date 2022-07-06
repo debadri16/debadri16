@@ -6,7 +6,7 @@ I am a Fullstack Developer by profession and a traveller :camping: by heart. Sta
 
 Here are some info about me:
 
-- :computer: I’m currently working at TCS India.
+- :computer: I’m currently working at Samsung R&D Bangalore.
 - :globe_with_meridians: Check out my [website](https://www.debadri.com) and feel free to connect.
 - 💬 Ask me about anything.
 - :partying_face: Don't forget to enjoy the life.
